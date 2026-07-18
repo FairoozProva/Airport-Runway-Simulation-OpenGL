@@ -3,7 +3,7 @@
 A dynamic, hybrid 2D and 3D airport environment simulation built from scratch using object-oriented principles in C++ and rendered via the OpenGL and GLUT graphics libraries. This project blends detailed environmental layout modeling with a complex, multi-axis 3D rotating radar system.
 
 <img width="1747" height="885" alt="image" src="https://github.com/user-attachments/assets/d7d4531d-f782-4b38-9231-f8184ae7ce4a" />
-<img width="1746" height="884" alt="image" src="https://github.com/user-attachments/assets/9ae4b4d0-9090-418e-9402-0f4a5e64b28a" />
+
 
 ---
 
@@ -14,8 +14,7 @@ A dynamic, hybrid 2D and 3D airport environment simulation built from scratch us
 * **Architectural Environment:** Rendered structural assets including a central airport terminal building with dual-panel tinted glass windows and an integrated control tower.
 
 <img width="1235" height="624" alt="image" src="https://github.com/user-attachments/assets/1566f339-4d79-42d5-bc80-9fad6fb8c411" />
-<img width="1243" height="626" alt="image" src="https://github.com/user-attachments/assets/e58d3beb-d947-4e05-8f74-e2c8d0dafcc3" />
-<img width="1749" height="881" alt="image" src="https://github.com/user-attachments/assets/39531a83-d705-4eb6-9935-a9eb7e37138f" />
+<img width="1746" height="884" alt="image" src="https://github.com/user-attachments/assets/9ae4b4d0-9090-418e-9402-0f4a5e64b28a" />
 
 
 ---
