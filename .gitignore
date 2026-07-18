@@ -1,0 +1,38 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.mod
+*.den
+*.o
+*.obj
+
+# Precompiled Header files
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared Libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Code::Blocks project files (User-specific layouts)
+*.depend
+*.layout
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
